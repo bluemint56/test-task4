@@ -1,0 +1,9 @@
+1,クエリビルダ
+2,Eloquent
+3,M (Model)
+4,create
+5,read
+6,update
+7,マイグレーション
+8,マイグレート
+9,ファクトリ
